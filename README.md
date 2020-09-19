@@ -12,3 +12,6 @@ How to pre-process the data
 How to train the model and evaluate the model
 
 How to do prediction with using test data
+
+Youtube video:
+https://www.youtube.com/watch?v=_iykGvJZmVs&t=2s
